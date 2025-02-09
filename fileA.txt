@@ -2,4 +2,5 @@ This is FileA.
 This is a file change.
 Lets do the change in fileA.
 This is version-2 of the file.
+This is squash merge.
 
