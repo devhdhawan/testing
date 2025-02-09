@@ -1,1 +1,2 @@
 This is fileC.
+Change in fileC.
