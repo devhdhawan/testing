@@ -2,3 +2,4 @@ This is FileB.
 Lets make the change to this fil
 Change in FileB.
 This is merge testing in feature branch.
+This is squash merge.
