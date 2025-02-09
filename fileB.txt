@@ -3,3 +3,4 @@ Lets make the change to this fil
 Change in FileB.
 This is merge testing in feature branch.
 This is squash merge.
+This is version-1 of the file.
